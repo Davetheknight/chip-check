@@ -1,4 +1,4 @@
-A free and open source computer chip builder down to the silicon (soon). It *should* be able to eventually "emulate" these circuits and possibly be used to work with verilog and VHDL as an IDE to program FPGA chips in the future too. This project is being created by scratch in c/c++.
+A free and open source computer chip builder down to the silicon (soon). It *should* be able to eventually "emulate" these circuits and possibly be used to work with verilog and VHDL as an IDE to program FPGA chips in the future too. This project is being created by scratch in c/c++ and will work on Linux, MacOS, and Windows.
 
 
 
